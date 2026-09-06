@@ -1,0 +1,12 @@
+streamlit==1.63.0
+folium==0.20.0
+pandas==3.0.5
+numpy==2.5.2
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+httpx>=0.27,<1
+certifi>=2024
+python-dotenv>=1.0,<2
+# Direct imports; verified with Python 3.13. Install in the project .venv.
+# fastapi/uvicorn power backend/ (React frontend API); httpx is FastAPI's TestClient dependency.
+# certifi fixes macOS python.org SSL cert verification for FIRMS HTTPS calls; python-dotenv loads .env (FIRMS_MAP_KEY).

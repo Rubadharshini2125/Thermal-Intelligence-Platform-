@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.save
+Terminal Saved Output.*
+.streamlit/secrets.toml
+data/processed/

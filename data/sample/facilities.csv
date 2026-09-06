@@ -1,0 +1,5 @@
+name,facility_type,latitude,longitude,synthetic
+Demo western refinery,Oil refinery,22.353,69.853,true
+Demo coastal power station,Thermal power plant,21.102,72.653,true
+Demo eastern steelworks,Steel plant,22.803,86.202,true
+Demo LNG terminal,LNG facility,20.6,72.9,true

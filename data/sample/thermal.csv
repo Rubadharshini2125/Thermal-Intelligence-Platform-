@@ -1,0 +1,35 @@
+latitude,longitude,acq_date,acq_time,bright_ti4,frp,confidence,satellite,context,scenario,synthetic
+22.3515,69.85,2026-09-06,0430,378,95,h,SYNTHETIC VIIRS,unknown,Refinery incident,true
+22.353,69.851,2026-09-06,1630,381,99,h,SYNTHETIC VIIRS,unknown,Refinery incident,true
+21.1,72.65,2026-09-01,0430,329,24,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.1015,72.651,2026-09-01,1630,332,28,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.1003,72.65,2026-09-02,0430,329,24,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.1018,72.651,2026-09-02,1630,332,28,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.1006,72.65,2026-09-03,0430,329,24,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.1021,72.651,2026-09-03,1630,332,28,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.1009,72.65,2026-09-04,0430,329,24,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.1024,72.651,2026-09-04,1630,332,28,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.1012,72.65,2026-09-05,0430,329,24,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.1027,72.651,2026-09-05,1630,332,28,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.1015,72.65,2026-09-06,0430,329,24,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.103,72.651,2026-09-06,1630,332,28,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.1018,72.65,2026-09-07,0430,329,24,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+21.1033,72.651,2026-09-07,1630,332,28,n,SYNTHETIC VIIRS,unknown,Power plant recurrence,true
+30.1009,79.2,2026-09-04,0430,365,76,h,SYNTHETIC VIIRS,forest,Forest fire,true
+30.1024,79.201,2026-09-04,1630,368,80,h,SYNTHETIC VIIRS,forest,Forest fire,true
+30.1012,79.2,2026-09-05,0430,365,76,h,SYNTHETIC VIIRS,forest,Forest fire,true
+30.1027,79.201,2026-09-05,1630,368,80,h,SYNTHETIC VIIRS,forest,Forest fire,true
+30.7006,75.8,2026-09-03,0430,320,12,n,SYNTHETIC VIIRS,cropland,Agricultural burning,true
+30.7021,75.801,2026-09-03,1630,323,16,n,SYNTHETIC VIIRS,cropland,Agricultural burning,true
+30.7009,75.8,2026-09-04,0430,320,12,n,SYNTHETIC VIIRS,cropland,Agricultural burning,true
+30.7024,75.801,2026-09-04,1630,323,16,n,SYNTHETIC VIIRS,cropland,Agricultural burning,true
+25.4018,81.8,2026-09-07,0430,307,4,l,SYNTHETIC VIIRS,unknown,Unknown signal,true
+25.4033,81.801,2026-09-07,1630,310,8,l,SYNTHETIC VIIRS,unknown,Unknown signal,true
+22.8,86.2,2026-09-01,0430,344,39,h,SYNTHETIC VIIRS,unknown,Steel plant recurrence,true
+22.8015,86.201,2026-09-01,1630,347,43,h,SYNTHETIC VIIRS,unknown,Steel plant recurrence,true
+22.8006,86.2,2026-09-03,0430,344,39,h,SYNTHETIC VIIRS,unknown,Steel plant recurrence,true
+22.8021,86.201,2026-09-03,1630,347,43,h,SYNTHETIC VIIRS,unknown,Steel plant recurrence,true
+22.8012,86.2,2026-09-05,0430,344,39,h,SYNTHETIC VIIRS,unknown,Steel plant recurrence,true
+22.8027,86.201,2026-09-05,1630,347,43,h,SYNTHETIC VIIRS,unknown,Steel plant recurrence,true
+22.8018,86.2,2026-09-07,0430,344,39,h,SYNTHETIC VIIRS,unknown,Steel plant recurrence,true
+22.8033,86.201,2026-09-07,1630,347,43,h,SYNTHETIC VIIRS,unknown,Steel plant recurrence,true
