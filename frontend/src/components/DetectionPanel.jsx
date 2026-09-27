@@ -1,4 +1,4 @@
- export default function DetectionPanel({ detection, isLive }) {
+export default function DetectionPanel({ detection, isLive }) {
   if (!detection) return <div className="panel empty">Select a detection on the map for details.</div>
   const d = detection
   return (
